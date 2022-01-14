@@ -1,6 +1,6 @@
 # Hi there, my name is Daniel Bonasser 👋
 
-### I'm a software engineer intern at Liferay :man_technologist:
+### I'm a Software Engineer at Liferay :man_technologist:
 
 <!--
 **danvb112/danvb112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
